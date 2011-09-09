@@ -127,10 +127,10 @@ class DbConnect
 	*/
 	function __construct()
 	{
-		$this->DB_HOST     = 'cyeasyapns.mysql.fluxflex.com';
-		$this->DB_USERNAME = 'cyeasyapns'; // !!! CHANGE ME
-		$this->DB_PASSWORD = '2qozwIX6J'; // !!! CHANGE ME
-		$this->DB_DATABASE = 'cyeasyapns'; // !!! CHANGE ME
+		$this->DB_HOST     = 'easyapnstest.mysql.fluxflex.com';
+		$this->DB_USERNAME = 'easyapnstest'; // !!! CHANGE ME
+		$this->DB_PASSWORD = 'oNwwwxli'; // !!! CHANGE ME
+		$this->DB_DATABASE = 'easyapnstest'; // !!! CHANGE ME
 		$this->DB_PORT     = '3306'; // !!! CHANGE ME
 	}
 
